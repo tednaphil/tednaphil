@@ -15,10 +15,10 @@ git-fan | curious | -->
 ![replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=for-the-badge)
 
 <!--Currently learning
-prettier
+prettier, mocha, chai
 
 Interested in learning
-reactjs, redux, node.js
+react.js, redux, node.js
 
 
 <!--Interests: UX, functional programming, semantic HTML
