@@ -13,6 +13,8 @@ git-fan | curious | -->
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=for-the-badge)
+![mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
+![chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge)
 
 <!--Currently learning
 prettier, mocha, chai
