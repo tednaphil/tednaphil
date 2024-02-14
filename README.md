@@ -1,4 +1,4 @@
-<!-- use to test upstream -->
+
 # Hi, I'm Tayla!
 
 Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40" height="auto"> 
@@ -6,7 +6,7 @@ Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b2
 <!-- ![a4a874c79936fd1b5ed0e9faf2fef140](https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa)
 git-fan | curious | --> 
 
-### My Tech Stack
+## My Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -16,10 +16,10 @@ git-fan | curious | -->
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
 ![chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge)
 
-<!--Currently learning
-prettier, mocha, chai
+<!-- ### Currently learning
+- ![sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 
-Interested in learning
+<!--Interested in learning
 react.js, redux, node.js
 
 
