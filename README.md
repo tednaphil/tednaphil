@@ -15,9 +15,10 @@ git-fan | curious | -->
 ![replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=for-the-badge)
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
 ![chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge)
+![sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 
 <!-- ### Currently learning
-- ![sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
+- 
 
 <!--Interested in learning
 react.js, redux, node.js
