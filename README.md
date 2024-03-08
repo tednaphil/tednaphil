@@ -1,7 +1,7 @@
 
 # Hi, I'm Tayla!
 
-Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40" height="auto"> 
+Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40px" width="40px"> 
 
 <!-- ![a4a874c79936fd1b5ed0e9faf2fef140](https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa)
 git-fan | curious | --> 
