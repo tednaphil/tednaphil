@@ -23,7 +23,7 @@ git-fan | curious | -->
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 
 <!--Interested in learning
-redux, vue, node.js
+[redux](https://redux.js.org/), vue, node.js
 
 
 <!--Interests: UX, functional programming, semantic HTML
