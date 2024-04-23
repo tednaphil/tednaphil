@@ -8,6 +8,7 @@ git-fan | curious | -->
 
 ## My Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
@@ -20,11 +21,11 @@ git-fan | curious | -->
 ![router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 
 ### Currently learning
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
-<!--Interested in learning
+<!--
+<div align=center> <img src="https://streak-stats.demolab.com/?user=tednaphil" alt="github streak stats"/> </div>
+
+Interested in learning
 [redux](https://redux.js.org/), vue, node.js
 
-
-<!--Interests: UX, functional programming, semantic HTML
