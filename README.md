@@ -23,9 +23,9 @@ git-fan | curious | -->
 ### Currently learning
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 
-<!--
-<div align=center> <img src="https://streak-stats.demolab.com/?user=tednaphil" alt="github streak stats"/> </div>
 
+<div align=center> <img src="https://streak-stats.demolab.com?user=tednaphil&theme=onedark-duo&hide_border=true&exclude_days=Sun%2CSat" alt="github streak stats"/> </div>
+<!--
 Interested in learning
 [redux](https://redux.js.org/), vue, node.js
 
