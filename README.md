@@ -22,6 +22,8 @@ git-fan | curious | -->
 
 ### Currently learning
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
+![knex](https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=for-the-badge)
+![postgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 
 <div align=center>
