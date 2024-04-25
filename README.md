@@ -33,5 +33,5 @@ git-fan | curious | -->
 </div>
 <!--
 Interested in learning
-[redux](https://redux.js.org/), vue, node.js
+[redux](https://redux.js.org/), vue, node.js, eleventy, astro
 
