@@ -2,10 +2,11 @@
 # Hi, I'm Tayla!
 
 Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40px" width="40px"> <br>
+Email Me!
 <a
           href=mailto:trichardsphillips@gmail.com
           target="_blank"
-          title="Email Tayla">Email Me!</a>
+          title="Email Tayla"><img src='https://github.com/tednaphil/tednaphil/assets/76406423/d22ea574-7978-4f70-8c4f-97cefa6e0d01' alt='email icon' height='40px' width='40px'/></a>
 
 <!-- ![a4a874c79936fd1b5ed0e9faf2fef140](https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa)
 git-fan | curious | --> 
