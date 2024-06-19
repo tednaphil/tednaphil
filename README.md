@@ -1,7 +1,11 @@
 
 # Hi, I'm Tayla!
 
-Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40px" width="40px"> 
+Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40px" width="40px"> <br>
+<a
+          href=mailto:trichardsphillips@gmail.com
+          target="_blank"
+          title="Email Tayla">Email Me!</a>
 
 <!-- ![a4a874c79936fd1b5ed0e9faf2fef140](https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa)
 git-fan | curious | --> 
@@ -19,10 +23,10 @@ git-fan | curious | -->
 ![cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
+![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
 
 ### Currently learning
-![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![knex](https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=for-the-badge)
 ![postgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
