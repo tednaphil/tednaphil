@@ -1,15 +1,17 @@
 
 # Hi, I'm Tayla!
 
-Front-end <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="40px" width="40px"> <br>
-Email Me!
+I <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="30px" width="30px" align='center'> frontend development <be>
+<div align='center'>
 <a
-          href=mailto:trichardsphillips@gmail.com
-          target="_blank"
-          title="Email Tayla"><img src='https://github.com/tednaphil/tednaphil/assets/76406423/d22ea574-7978-4f70-8c4f-97cefa6e0d01' alt='email icon' height='40px' width='40px'/></a>
+href=mailto:trichardsphillips@gmail.com
+target="_blank"
+title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tednaphil/assets/76406423/56802ef8-805a-49c0-9441-1c2b00b9fb1a' alt='email icon' height='100px' width='100px' align='center'/></a>
+<p align='center'>Email Me!</p>
+</div>
 
-<!-- ![a4a874c79936fd1b5ed0e9faf2fef140](https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa)
-git-fan | curious | --> 
+
+
 
 ## My Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
