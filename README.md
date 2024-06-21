@@ -1,7 +1,7 @@
 
 # Hi, I'm Tayla!
 
-I <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="30px" width="30px" align='center'> frontend development <be>
+I <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="30px" width="30px" align='center'> frontend <br>
 <div align='center'>
 <a
 href=mailto:trichardsphillips@gmail.com
