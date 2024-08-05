@@ -28,7 +28,7 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 ![router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
-![chakra](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=flat)
+![chakra](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=for-the-badge)
 ![postgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![rubyonrails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge)
 
