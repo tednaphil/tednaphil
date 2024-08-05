@@ -1,4 +1,6 @@
 
+<div align='center'>
+  
 # Hi, I'm Tayla!
 
 I <img src="https://github.com/tednaphil/tednaphil/assets/76406423/200b238f-9fdb-468c-a433-753cae3ce5aa" alt="heart" height="30px" width="30px" align='center'> frontend <br>
@@ -11,7 +13,7 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 </div>
 
 
-
+<div align='center'>
 
 ## My Tech Stack
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -44,6 +46,9 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 ![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
+</div>
+
+<hr/>
 
 <div align=center>
   
