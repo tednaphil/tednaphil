@@ -28,8 +28,17 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 ![router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 ![express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
+![chakra](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=flat)
 ![postgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![rubyonrails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge)
+
+### Tools
+![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
+![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
+![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
+
 
 ### Currently learning
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
@@ -42,5 +51,5 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 </div>
 <!--
 Interested in learning
-[redux](https://redux.js.org/), vue, node.js, eleventy, astro
+[redux](https://redux.js.org/), vue, node.js, eleventy
 
