@@ -13,6 +13,13 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 </div>
 
 
+<div align=center>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=tednaphil&theme=onedark-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</div>
+
+<hr/>
+
 <div align='center'>
 
 ## My Tech Stack
@@ -48,12 +55,7 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 
 </div>
 
-<hr/>
 
-<div align=center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tednaphil&theme=onedark-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</div>
 <!--
 Interested in learning
 [redux](https://redux.js.org/), vue, node.js, eleventy
