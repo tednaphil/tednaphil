@@ -32,7 +32,7 @@ title="trichardsphillips@gmail.com"><img src='https://github.com/tednaphil/tedna
 ![rubyonrails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge)
 
 ### Currently learning
-![knex](https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 ![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
 
